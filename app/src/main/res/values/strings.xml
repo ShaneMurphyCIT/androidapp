@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FPBallot</string>
+    <string name="error">Error</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="network_alert">We\'re having trouble reaching the network. Check your connection or try again in a few minutes.</string>
+
+    <!-- SIGNIN SCREEN -->
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="alert_email">Please enter email</string>
+    <string name="alert_valid_email">Please enter a valid email</string>
+    <string name="alert_password">Please enter password</string>
+
+    <string name="instructions">Place your fingertip on the Home button to verify your identity</string>
+</resources>

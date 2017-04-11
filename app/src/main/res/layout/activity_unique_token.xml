@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/edt_txt_color"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="20dp">
+
+    <TextView
+        android:id="@+id/tvToken"
+        style="@style/TvStyle"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:textColor="@color/white"
+        android:textSize="36sp" />
+
+    <Button
+        android:id="@+id/btnDisplayToken"
+        style="@style/BtnStyle"
+        android:layout_marginTop="20dp"
+        android:onClick="onClick"
+        android:text="Display Token code" />
+
+</LinearLayout>
+

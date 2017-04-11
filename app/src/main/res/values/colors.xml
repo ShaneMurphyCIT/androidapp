@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00007F</color>
+    <color name="colorPrimaryDark">#000051</color>
+    <color name="colorAccent">#659700</color>
+
+    <color name="main_bg_color">#F6F6F6</color>
+    <color name="menu_header_color">#232C3D</color>
+    <color name="menu_row_color">#263143</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="edt_txt_color">#262626</color>
+    <color name="edt_txt_hint_color">#636363</color>
+    <color name="edt_border_unselected_color">#EBEBEB</color>
+    <color name="errorText">#ff7878</color>
+</resources>
